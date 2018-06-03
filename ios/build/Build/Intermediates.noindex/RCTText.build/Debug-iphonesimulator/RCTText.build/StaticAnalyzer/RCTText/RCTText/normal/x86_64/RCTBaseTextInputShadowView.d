@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.m \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/Text/NSTextStorage+FontScaling.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/kobe/Desktop/rnText/code/Azbs/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h

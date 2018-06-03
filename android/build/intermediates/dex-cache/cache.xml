@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_53c47c7217a16cc5cb43dab66803cbef22825c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_89597bec2da51f47f4eed3e3f3c26e3c46a10422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e6a3cdf73a79841fd7e1acf6cbe8df96fe1a379">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7df834642f245deae110231d2cf00291f59a0f63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-1.3.0_dee9182f5e86cb3fe16db38f8cc5b0810c4cb649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_745e9f8faeafde91373b0ca74a2250515b8ba87a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_8bd027938d39073f48abef143314528c15477b19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_a3bb6a4372bc203ee00505adb6d1e0f95d833beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-1.3.0_67af9f54c39185fd7e81c3a302d1b6c8736f1af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_168d60825ca3e9340bb178c37d37b1198b41b12f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-1.3.0_e37692c962e7aec3fa0d0ee2fafb4adf3e44ab18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_7d8e164d3040e1f197258c4129b5e89db6bfaa5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-1.3.0_5e29e9a37d2a399bdd9ca69e5ed313a55b33571d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-1.3.0_0ab7c2d0a11bbaebbb9c792b2c4222e67bac5482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_ec705f95b9b9dcf00e4e1d1d1f13ded0a88fae97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7276da9244860cd54e4e47ce44188b8e2915082e">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0a678c79096dde7db9285c291a17b380b345345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_824d3e68cf2ab03cdc2297124174da5791d1a4ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_6da0b609d04d8685a55e8514adea938d7dd41e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.55.4_ca118ea3c00589673e82d9212559e2fc30890c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1834bd79969c5362a4100efb971fa9202ac5cd57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_800028d3ce733b6a6cf52a2fe3ad56eff05194f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_88322fbd732b8c7f87955abe0c34a8f58c6aa4b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_d50f13ff32cbb2e2f5bb92e3dc04566b8105a07a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_d2332a387c9e052d3f8dd149313d44b047e65111/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Jun 01 21:57:40 CST 2018
+base.0=/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0a678c79096dde7db9285c291a17b380b345345
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7df834642f245deae110231d2cf00291f59a0f63/classes.dex
+base.1=/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7df834642f245deae110231d2cf00291f59a0f63
+file.0=/Users/kobe/Desktop/rnText/code/Azbs/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0a678c79096dde7db9285c291a17b380b345345/classes.dex
